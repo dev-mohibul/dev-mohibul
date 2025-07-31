@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Freelancer**
 
-- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, PHP, MySQL WordPress,**
+- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, PHP, MySQL & WordPress.**
 
 - 👯 I’m looking to collaborate on **Freelancer**
 
