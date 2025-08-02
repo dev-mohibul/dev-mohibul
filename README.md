@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohibul Alam</h1>
-<h3 align="center">A passionate Web Designer, Developer, & WordPress Expert ! Clean Code & Web Solutions dedicated to creating responsive, impactful, and user-friendly digital experiences that drive results.</h3>
+<h3 align="center">A passionate Web Designer, Developer, & WordPress Expert ! Clean Code & Web Solutions is dedicated to creating responsive, impactful, and user-friendly digital experiences that drive results.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-mohibul&label=Profile%20views&color=0e75b6&style=flat" alt="dev-mohibul" /> </p>
 
