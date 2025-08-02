@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mohibul Alam</h1>
+<img src="https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/512623851_23876673112014039_7777612769010048642_n.png?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFYxmDZoIPq7_sO4RasJkymUB6TSRbXaqJQHpNJFtdqogG1TFoasZtosKM24OYeoZ5OoS_2ZAeRWWJ0oMi1nH8m&_nc_ohc=3VGwOgakfZUQ7kNvwGcuytn&_nc_oc=AdlH8A7qL0hIG7SxRwepzxyR_KkFYV-SDP-5VLCx5gtdMWg3ItnCOWTEwatuRN21R9w&_nc_zt=23&_nc_ht=scontent.fdac99-1.fna&_nc_gid=qaY34W6GgoQfDP-AloO_Bw&oh=00_AfQCBUoC0iJ_XKDQ6Ml2sJ8tNp0VWYPXb31KkkDNzUMvTA&oe=6893B1E7">
+<h1 align="center">Hello 👋, I'm Mohibul Alam</h1>
 <h3 align="center">A passionate Web Designer, Developer, & WordPress Expert ! Clean Code & Web Solutions is dedicated to creating responsive, impactful, and user-friendly digital experiences that drive results.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-mohibul&label=Profile%20views&color=0e75b6&style=flat" alt="dev-mohibul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-mohibul" alt="dev-mohibul" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mohibul75435879" target="blank"><img src="https://img.shields.io/twitter/follow/mohibul75435879?logo=twitter&style=for-the-badge" alt="mohibul75435879" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mohibul75435879" target="blank"><img src="https://img.shields.io/twitter/follow/mohibul75435879?logo=twitter&style=for-the-badge" alt="mohibul-alam-4792b5201" /></a> </p>
 
 - 🔭 I’m currently working on [Freelancer](https://github.com/dev-mohibul)
 
