@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/mohibul75435879" target="blank"><img src="https://img.shields.io/twitter/follow/mohibul75435879?logo=twitter&style=for-the-badge" alt="mohibul75435879" /></a> </p>
 
-- 🔭 I’m currently working on [Freelancer](https://www.freelancer.com/u/mohibula2)
+- 🔭 I’m currently working on [Freelancer](https://github.com/dev-mohibul)
 
-- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, PHP, MySQL, WordPress,**
+- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, Bootstrap, PHP, MySQL, WordPress,**
 
-- 👯 I’m looking to collaborate on [Freelancer](https://www.freelancer.com/manage/work/contests/open?query=&show=10)
+- 👯 I’m looking to collaborate on [Freelancer](https://github.com/dev-mohibul)
 
 - 🤝 I’m looking for help with [Web Design And Development](https://github.com/dev-mohibul)
 
-- 👨‍💻 All of my projects are available at [https://www.freelancer.com/u/mohibula2](https://www.freelancer.com/u/mohibula2)
+- 👨‍💻 All of my projects are available at [https://github.com/dev-mohibul](https://github.com/dev-mohibul)
 
 - 📝 I regularly write articles on [https://lnkd.in/gG7dX9gM](https://lnkd.in/gG7dX9gM)
 
