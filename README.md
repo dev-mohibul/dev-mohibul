@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-mohibul" alt="dev-mohibul" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/mohibul-alam-4792b5201/" target="blank"><img src="https://img.shields.io/linkedin/follow/in/mohibul-alam-4792b5201?logo=linkedin&style=for-the-badge" alt="mohibul-alam-4792b5201" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/mohibul-alam-4792b5201/" target="blank"><img src="https://www.linkedin.com/in/mohibul-alam-4792b5201/?logo=linkedin&style=for-the-badge" alt="mohibul-alam-4792b5201" /></a> </p>
 
 - 🔭 I’m currently working on [Freelancer](https://github.com/dev-mohibul)
 
