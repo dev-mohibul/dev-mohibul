@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dev-mohibul](https://github.com/dev-mohibul)
 
-- 📝 I regularly write articles on [https://lnkd.in/gG7dX9gM](https://lnkd.in/gG7dX9gM)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/dev-mohibul/](https://www.linkedin.com/in/dev-mohibul/)
 
 - 💬 Ask me about **Website Design & Development**
 
