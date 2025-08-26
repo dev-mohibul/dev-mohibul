@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-mohibul" alt="dev-mohibul" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mohibul75435879" target="blank"><img src="https://img.shields.io/twitter/follow/mohibul75435879?logo=twitter&style=for-the-badge" alt="mohibul75435879" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/dev-mohibul" target="blank"><img src="https://img.shields.io/linkedin/follow/dev-mohibul?logo=linkedin&style=for-the-badge" alt="dev-mohibul" /></a> </p>
 
 - 🔭 I’m currently working on [Github](https://github.com/dev-mohibul)
 
-- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, Bootstrap, PHP, MySQL & WordPress**
+- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, Bootstrap, PHP, jQuery, MySQL & WordPress**
 
 - 👯 I’m looking to collaborate on [Frelancer](https://www.freelancer.com/u/mohibula2?sb=t)
 
